@@ -1,8 +1,13 @@
 # MARSEILLE - LA CITÉ PHOCÉENNE
 
+---
+
 ![photo de marseille pour le sommaire](chiemseherin-marseille-7352728.jpg)
 
 >Cette présentation de Marseille est faites par Adam Ferras et prouve son amour pour cette ville magnifique!
+
+---
+
 ## Sommaire
 
 ### - Histoire et passé
@@ -22,6 +27,7 @@
    Découvrez la richesse naturelle de Marseille, sa faune et sa flore méditerranéennes, ainsi que les espaces naturels qui font de cette ville un lieu unique entre terre et mer.
 
 Voici la liste de toutes les sources utilisées:
+
 https://fr.wikipedia.org/wiki/Marseille
 
 
