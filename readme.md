@@ -28,7 +28,6 @@
 
 Voici la liste de toutes les sources utilisées:
 
-https://fr.wikipedia.org/wiki/Marseille
 
 https://www.marseille.fr/index.php/decouvrir-marseille/2600-ans-dhistoire
 
