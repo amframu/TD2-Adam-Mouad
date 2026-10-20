@@ -111,40 +111,64 @@ Pour préparer cette partie, tu peux consulter le site de la [Ville de Marseille
 
 # Culture et immigration
 
-### 1.Les origines de la diversité culturelle
+### 1. Les origines de la diversité culturelle
 
-### 2.Les vagues d'immigration
+### 2. Les vagues d'immigration
 
-### 3.Les traditions et la gastronomie
+### 3. Les traditions et la gastronomie
 
-### 4.Les quartiers et la diversité culturelle
+### 4. Les quartiers et la diversité culturelle
 
-### 5.L'influence de l'immigration aujourd'hui
+### 5. L'influence de l'immigration aujourd'hui
+
+---
+
+### Ce qu'il faut retenir
+
+- **blablabla :** totototototo.
+- **blablabla :** totototototo.
+- **blablabla :** totototototo.
 
 ---
 
 # Tourisme et Patrimoine
 
-### 1.Le Vieux-Port
+### 1. Le Vieux-Port
 
-### 2.Notre-Dame de la Garde
+### 2. Notre-Dame de la Garde
 
-### 3.Les calanques de Marseille
+### 3. Les calanques de Marseille
 
-### 4.Les monuments et les musées
+### 4. Les monuments et les musées
 
-### 5.L'importance du tourisme
+### 5. L'importance du tourisme
+
+---
+
+**### Ce qu'il faut retenir
+
+- **blablabla :** totototototo.
+- **blablabla :** totototototo.
+- **blablabla :** totototototo.
 
 ---
 
 # Faune et flore
 
-### 1.Le climat méditerranéen
+### 1. Le climat méditerranéen
 
-### 2.La flore méditerranéenne
+### 2. La flore méditerranéenne
 
-### 3.Les animaux terrestres
+### 3. Les animaux terrestres
 
-### 4.La faune et la flore marines
+### 4. La faune et la flore marines
 
-### 5.La protection de la nature
+### 5. La protection de la nature
+
+---
+
+### Ce qu'il faut retenir
+
+- **blablabla :** totototototo.
+- **blablabla :** totototototo.
+- **blablabla :** totototototo.
