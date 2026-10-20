@@ -111,9 +111,6 @@ Pour préparer cette partie, tu peux consulter le site de la [Ville de Marseille
 
 # Culture et immigration
 
-## 2. Culture et immigration
-
-
 ### 1.Les origines de la diversité culturelle
 
 ### 2.Les vagues d'immigration
@@ -124,9 +121,30 @@ Pour préparer cette partie, tu peux consulter le site de la [Ville de Marseille
 
 ### 5.L'influence de l'immigration aujourd'hui
 
+---
 
 # Tourisme et Patrimoine
 
+### 1.Le Vieux-Port
+
+### 2.Notre-Dame de la Garde
+
+### 3.Les calanques de Marseille
+
+### 4.Les monuments et les musées
+
+### 5.L'importance du tourisme
+
+---
 
 # Faune et flore
 
+### 1.Le climat méditerranéen
+
+### 2.La flore méditerranéenne
+
+### 3.Les animaux terrestres
+
+### 4.La faune et la flore marines
+
+### 5.La protection de la nature
