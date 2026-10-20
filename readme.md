@@ -38,8 +38,6 @@ https://multimedia.inrap.fr/atlas/marseille/synthese-periodes/moyen-age
 
 https://www.marseille-tourisme.com/decouvrez-marseille/culture-et-patrimoine/histoire-de-marseille/
 
-# Histoire et passé
-
 # Histoire et passé de Marseille
 
 ## Vers 600 av. J.-C. : la naissance de Marseille
