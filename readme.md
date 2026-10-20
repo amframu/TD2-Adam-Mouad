@@ -15,16 +15,17 @@ Voici la liste de toutes les sources utilisées:
 
 
 
-#Histoire et passé
+# Histoire et passé
+
 Découvrez la ville à travers le temps et plongez dans son histoire riche, de sa fondation jusqu'à aujourd'hui, en passant par les grands événements qui ont marqué son évolution.
 
 
 
-#Culture et immigration
+# Culture et immigration
 
 
 
-#Tourisme et Patrimoine
+# Tourisme et Patrimoine
 
 
-#Faune et flore
+#F aune et flore
