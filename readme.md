@@ -42,7 +42,7 @@ https://www.marseille-tourisme.com/decouvrez-marseille/culture-et-patrimoine/his
 
 > Marseille est une ville qui a traversé les siècles en gardant un lien fort avec la mer Méditerranée.
 
-## 1. Vers 600 av. J.-C. : la naissance de Marseille
+### 1. Vers 600 av. J.-C. : la naissance de Marseille
 
 Marseille est fondée par des marins grecs venus de *Phocée*, une ancienne cité située dans l'actuelle Turquie. À cette époque, la ville porte le nom de **Massalia**. Grâce à sa position près de la mer, elle devient rapidement un lieu important pour le commerce et les échanges avec les autres peuples méditerranéens.
 
@@ -53,33 +53,33 @@ Marseille est fondée par des marins grecs venus de *Phocée*, une ancienne cit�
 
 Pour en savoir plus, consultez le [Musée d'Histoire de Marseille](https://musees.marseille.fr/).
 
-## 2. 49 av. J.-C. : la conquête romaine
+### 2. 49 av. J.-C. : la conquête romaine
 
 Marseille est conquise par Jules César après avoir soutenu son adversaire pendant la guerre civile romaine. La ville prend alors le nom latin de **Massilia**. Elle conserve son importance portuaire, même si sa situation politique change.
 
 Tu peux découvrir les vestiges de cette période au [Musée d'Histoire de Marseille](https://musees.marseille.fr/).
 
-## 3. Le Moyen Âge : une ville qui évolue
+### 3. Le Moyen Âge : une ville qui évolue
 
 Au Moyen Âge, Marseille traverse des périodes difficiles, notamment des conflits et des épidémies. Au fil des siècles, la ville se développe à nouveau grâce au commerce et aux activités de son port. Elle reste un lieu important pour les échanges en Méditerranée.
 
-## 4. 1481 : Marseille rejoint le royaume de France
+### 4. 1481 : Marseille rejoint le royaume de France
 
 En **1481**, Marseille est rattachée au royaume de France avec la Provence. Ce rattachement marque une nouvelle étape dans son histoire et renforce progressivement ses liens avec le pouvoir royal français.
 
-## 5. Le XIXe siècle : le développement du port
+### 5. Le XIXe siècle : le développement du port
 
 Au XIXe siècle, Marseille connaît une forte croissance. Son port se développe, les chemins de fer arrivent et de nouvelles industries apparaissent. De nombreuses personnes venues d'autres régions et de pays voisins s'installent dans la ville pour travailler.
 
 Marseille devient alors une grande ville commerciale et industrielle.
 
-## 6. Le XXe siècle : une ville transformée
+### 6. Le XXe siècle : une ville transformée
 
 Au XXe siècle, Marseille traverse des périodes difficiles, notamment pendant les deux guerres mondiales. En **1943**, une partie du quartier du Vieux-Port est détruite par les autorités allemandes et de nombreux habitants sont évacués.
 
 Après la guerre, la ville est reconstruite et continue de se transformer avec le développement des transports, des quartiers et des activités portuaires.
 
-## 7. Marseille aujourd'hui
+### 7. Marseille aujourd'hui
 
 Aujourd'hui, Marseille est une grande ville française située au bord de la mer Méditerranée. Elle est connue pour son **Vieux-Port**, son patrimoine historique, sa diversité culturelle et ses paysages naturels.
 
@@ -89,7 +89,7 @@ Pour préparer cette partie, tu peux consulter le site de la [Ville de Marseille
 
 ---
 
-## Quelques dates importantes
+### Quelques dates importantes
 
 | Date | Événement |
 |---|---|
@@ -102,13 +102,11 @@ Pour préparer cette partie, tu peux consulter le site de la [Ville de Marseille
 
 ---
 
-## Ce qu'il faut retenir
+### Ce qu'il faut retenir
 
 - **Une origine grecque :** Marseille est l'une des plus anciennes villes de France.
 - **Une histoire maritime :** son port a joué un rôle essentiel dans son développement.
 - **Une ville en évolution :** les différentes périodes historiques ont façonné son identité actuelle.
-
-[Retour au sommaire](README.md)
 
 ---
 
