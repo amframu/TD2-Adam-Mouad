@@ -30,6 +30,13 @@ Voici la liste de toutes les sources utilisées:
 
 https://fr.wikipedia.org/wiki/Marseille
 
+https://www.marseille.fr/index.php/decouvrir-marseille/2600-ans-dhistoire
+
+https://musees.marseille.fr/le-port-antique
+
+https://multimedia.inrap.fr/atlas/marseille/synthese-periodes/moyen-age
+
+https://www.marseille-tourisme.com/decouvrez-marseille/culture-et-patrimoine/histoire-de-marseille/
 
 # Histoire et passé
 
