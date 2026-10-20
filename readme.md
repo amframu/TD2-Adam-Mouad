@@ -37,6 +37,10 @@ https://multimedia.inrap.fr/atlas/marseille/synthese-periodes/moyen-age
 
 https://www.marseille-tourisme.com/decouvrez-marseille/culture-et-patrimoine/histoire-de-marseille/
 
+https://www.calanques-parcnational.fr/
+
+https://calanques-parcnational.fr/fr/herbier-de-posidonie
+
 # Histoire et passé de Marseille
 
 > Marseille est une ville qui a traversé les siècles en gardant un lien fort avec la mer Méditerranée.
@@ -111,64 +115,124 @@ Pour préparer cette partie, tu peux consulter le site de la [Ville de Marseille
 
 # Culture et immigration
 
+> Marseille est une ville ouverte sur la Méditerranée depuis l'Antiquité. Son port a favorisé les échanges entre les populations et a contribué à sa diversité culturelle.
+
 ### 1. Les origines de la diversité culturelle
+
+Vers 600 av. J.-C., des Grecs venus de Phocée fondent Massalia, l'ancienne Marseille. Le commerce maritime permet ensuite à la ville d'échanger avec de nombreux peuples.
+
+Source : [Musée d'Histoire de Marseille](https://musees.marseille.fr/le-port-antique).
 
 ### 2. Les vagues d'immigration
 
+Au XIXe siècle, Marseille accueille notamment des Italiens venus travailler dans le port et les industries. D'autres populations, originaires entre autres d'Espagne et du Maghreb, s'installent ensuite dans la ville.
+
 ### 3. Les traditions et la gastronomie
+
+La culture marseillaise se retrouve dans sa cuisine, ses fêtes et ses traditions. La bouillabaisse, les panisses et les navettes font partie des spécialités locales.
+
+- **Bouillabaisse** : plat traditionnel à base de poissons.
+- **Panisses** : préparation à base de farine de pois chiches.
+- **Navettes** : biscuits parfumés à la fleur d'oranger.
 
 ### 4. Les quartiers et la diversité culturelle
 
+Le Panier est connu pour ses ruelles historiques, tandis que Noailles est apprécié pour ses marchés et ses commerces variés. Ces quartiers illustrent la diversité de la vie marseillaise.
+
 ### 5. L'influence de l'immigration aujourd'hui
+
+Les différentes origines des habitants enrichissent la vie culturelle de Marseille, notamment dans la cuisine, la musique et les commerces.
+
+~~La culture marseillaise vient d'une seule origine.~~ Elle s'est construite grâce à de nombreuses influences.
 
 ---
 
 ### Ce qu'il faut retenir
 
-- **blablabla :** totototototo.
-- **blablabla :** totototototo.
-- **blablabla :** totototototo.
+- **Marseille est une ville d'échanges depuis l'Antiquité.**
+- **L'immigration a contribué à sa diversité.**
+- **Les traditions témoignent de cette richesse culturelle.**
 
 ---
 
 # Tourisme et Patrimoine
 
+> Marseille attire les visiteurs grâce à ses monuments, son histoire et ses paysages méditerranéens. Son patrimoine est à la fois historique et naturel.
+
 ### 1. Le Vieux-Port
+
+Le Vieux-Port est un lieu emblématique de Marseille. Utilisé depuis l'Antiquité, il est aujourd'hui animé par les bateaux, les restaurants et les marchés.
+
+Source : [Musée d'Histoire de Marseille](https://musees.marseille.fr/le-port-antique).
 
 ### 2. Notre-Dame de la Garde
 
+Surnommée **« la Bonne Mère »**, cette basilique domine la ville. Elle est connue pour son architecture et sa vue sur Marseille et la Méditerranée.
+
 ### 3. Les calanques de Marseille
+
+Les calanques sont célèbres pour leurs falaises, leurs criques et leurs eaux turquoise. Elles permettent de pratiquer la randonnée et de découvrir la nature.
+
+**Attention :** l'accès à certains secteurs peut être réglementé en période de risque d'incendie.
+
+Source : [Parc national des Calanques](https://www.calanques-parcnational.fr/).
 
 ### 4. Les monuments et les musées
 
+Marseille possède plusieurs lieux culturels importants :
+
+- **Le Mucem** : consacré aux cultures de la Méditerranée.
+- **Le musée d'Histoire de Marseille** : consacré au passé de la ville.
+- *Le Fort Saint-Jean* : un monument historique près du port.
+
 ### 5. L'importance du tourisme
+
+Le tourisme soutient les hôtels, les restaurants et les commerces. Cependant, une fréquentation excessive peut dégrader certains sites naturels. Il faut donc trouver un équilibre entre tourisme et protection du patrimoine.
+
+~~Le tourisme n'a que des avantages.~~ Il apporte des revenus, mais demande aussi de protéger les lieux visités.
 
 ---
 
 **### Ce qu'il faut retenir
 
-- **blablabla :** totototototo.
-- **blablabla :** totototototo.
-- **blablabla :** totototototo.
+- **Le Vieux-Port et Notre-Dame de la Garde sont emblématiques.**
+- **Les musées permettent de découvrir l'histoire de Marseille.**
+- **Les sites naturels doivent être protégés.**
 
 ---
 
 # Faune et flore
 
+Marseille possède des espaces naturels variés, entre collines, littoral et mer Méditerranée. Son climat favorise une végétation adaptée à la chaleur et à la sécheresse.
+
 ### 1. Le climat méditerranéen
+
+Les étés sont généralement chauds et secs, tandis que les hivers sont plutôt doux. Ce climat influence les plantes et les animaux présents dans la région.
 
 ### 2. La flore méditerranéenne
 
+On trouve autour de Marseille des pins d'Alep, des chênes verts, du thym et du romarin. Ces plantes sont adaptées aux périodes de sécheresse et offrent des abris à de nombreux animaux.
+
 ### 3. Les animaux terrestres
+
+Les espaces naturels abritent notamment des oiseaux, des lézards et des insectes. Pour les protéger, il faut éviter de les déranger et respecter leur habitat.
 
 ### 4. La faune et la flore marines
 
+La Méditerranée abrite de nombreuses espèces marines. La **posidonie**, une plante sous-marine, forme des herbiers qui servent d'abri à de nombreux organismes.
+
+~~La posidonie est une algue.~~ C'est une plante à fleurs importante pour l'écosystème méditerranéen.
+
+Source : [Parc national des Calanques — Posidonie](https://calanques-parcnational.fr/fr/herbier-de-posidonie).
+
 ### 5. La protection de la nature
+
+Les déchets, les incendies et les activités humaines menacent certains milieux naturels. Chacun peut agir en restant sur les sentiers, en emportant ses déchets et en respectant les zones protégées.
 
 ---
 
 ### Ce qu'il faut retenir
 
-- **blablabla :** totototototo.
-- **blablabla :** totototototo.
-- **blablabla :** totototototo.
+- **Le climat méditerranéen favorise des plantes résistantes à la sécheresse.**
+- **La mer et les collines abritent une biodiversité variée.**
+- **La nature doit être protégée par les habitants et les visiteurs.**
